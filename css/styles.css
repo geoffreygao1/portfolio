@@ -58,16 +58,31 @@ h3 {
 
 .education {
   margin-bottom: 20px;
+  padding: 10px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 5%;
 }
 
 #college p {
   margin: 1px;
+  font-size: large;
 }
 
 .job {
   margin-bottom: 20px;
+  padding: 10px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 5%;
 }
 
 .job p {
   margin: auto;
+  font-size: large;
+}
+
+.skills {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 5%;
 }
