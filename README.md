@@ -17,7 +17,7 @@ _This website provides a link of personal portfolio projects as well as backgrou
 
 ## Github Pages Link
 
-[Click here](geoffreygao1.github.io/portfolio) to view the Github Pages website
+[Click here](https://geoffreygao1.github.io/portfolio/) to view the Github Pages website
 
 ## Setup/Installation Requirements
 
