@@ -94,3 +94,8 @@ h3 {
 .jobDesc {
   margin: auto;
 }
+
+.logo img {
+  width: 50px;
+  float: none;
+}
